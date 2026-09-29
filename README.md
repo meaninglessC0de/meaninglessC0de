@@ -12,3 +12,4 @@ Here are a few cool/useful repositories that I've work on:
 - [EpsilonDelta](https://github.com/meaninglessC0de/Epsilon-Delta) - This is a mathematics learning platform aimed at college students. My favourite featured here are the 3blue1brown style video generator and the real-time whiteboard checker. The project won 1st Place at HackLondon 2026.
 - [RTGS Payment Simulator](https://github.com/meaninglessC0de/RTGS_Simulator) - A CLI that lets you simulate interbank transactions within Real-Time Gross Settlement systems. We include various resolvers to solve gridlocks in queued payments.
 - [Word2Vec](https://github.com/meaninglessC0de/Word2Vec) - An implementation of skip-gram word2vec with negative sampling.
+- [Inference Engine](https://github.com/kbwal/inference-engine) - An inference engine for various small models.
